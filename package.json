@@ -1,0 +1,26 @@
+{
+  "name": "ci-telegram-bot",
+  "version": "0.1.0",
+  "description": "Telegram bot for notifications in CI flow.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-prog-lab/ci-telegram-bot.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "telegram",
+    "ci",
+    "devops"
+  ],
+  "author": "Michael <trainsfast@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mike-prog-lab/ci-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/mike-prog-lab/ci-telegram-bot#readme"
+}
